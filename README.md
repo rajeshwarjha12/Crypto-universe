@@ -6,11 +6,10 @@
 **Cryptoverse** is an innovative and user-friendly web application designed to cater to cryptocurrency enthusiasts and investors alike. With a vast database comprising details of over 200 cryptocurrencies and information on 50 different country currencies, Cryptoverse offers a one-stop platform for all your cryptocurrency-related needs. Whether you are a beginner exploring the world of digital assets or an experienced investor seeking in-depth analysis and real-time data, **Cryptoverse** has you covered.
 
 <p align="center">
-<img src="https://img.shields.io/badge/Author-@HarshKumarraghav-critical" />
+<img src="https://img.shields.io/badge/Author-@RajeshwarJha-critical" />
 </p>
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harsh-kumar-raghav-7285311b9/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/_Harsh_raghav_)
 
 </div>
 
