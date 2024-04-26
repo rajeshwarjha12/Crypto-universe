@@ -59,7 +59,7 @@
 ### Install Repository
 
 ```git
-git clone https://github.com/HarshKumarraghav/Cryptoverse.git
+git clone (https://github.com/rajeshwarjha12/Crypto-universe.git)
 ```
 
 ### Run Project
